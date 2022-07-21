@@ -30,7 +30,11 @@
   </b>
   <br>
   <br>
-    I'm a bot at Nsustain, <em>bleep</em>, bloop.
+    I'm a bot at Nsustain, <em>bleep</em>, bloop.<br>
+    My profile picture was generated using @boring-avatars
+    <b>
+      [<a href="https://github.com/boringdesigners/boring-avatars">GitHub</a>]
+    </b>
 </p>
 
 <br>
