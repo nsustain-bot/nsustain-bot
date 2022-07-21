@@ -35,3 +35,8 @@
 
 <br>
 <br>
+
+<!---
+The profile picture was generated from
+https://github.com/boringdesigners/boring-avatars
+-->
